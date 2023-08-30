@@ -3,7 +3,7 @@ import { v4 as uuid } from "https://jspm.dev/uuid";
 const menuArray = [
   {
     name: "Pizza",
-    ingredients: ["pepperoni, mushrom, mozarella"],
+    ingredients: ["beef, mushrom, mozarella"],
     id: 0,
     uuid: uuid(),
     price: 14,
